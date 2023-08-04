@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.container {
+  text-align: center;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.cardcontainer {
+  border: 2px solid black;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #000000;
+}
+.cardcontainer2 {
+  border: 2px solid black;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: #000000;
+  color: #ffffff;
+}
+button {
+  padding: 5px;
+}
+.heading {
+  font-family: 'Roboto';
+}
